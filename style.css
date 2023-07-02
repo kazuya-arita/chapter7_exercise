@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #6c6b6b;
+}
+
+header{
+  height: 400px;
+  background-image: url(img3/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+
+.header1{
+  padding: 20px 20px;
+}
+
+main{
+  display: flex;
+  justify-content: center;
+}
+
+.content{
+  padding-top: 50px;
+}
+
+.main1{
+  width: 840px;
+  border-bottom: solid ;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+footer{
+  padding-top: 50px;
+}
